@@ -26,7 +26,7 @@ public class Smurf {
 	public void eat() {
 		System.out.println(name + " Smurf is eating Smurfberries.");
 	}
-
+//
 	/* Papa Smurf wears a red hat, all the others are white. */
 	public String getHatColor() {
     if (name.equalsIgnoreCase("Papa")){

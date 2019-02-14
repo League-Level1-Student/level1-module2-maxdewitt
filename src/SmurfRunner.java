@@ -2,7 +2,7 @@
 public class SmurfRunner {
 	public static void main(String[] args) {
 		
-	
+	//
 Smurf handysmurf = new Smurf("Handy");
 String handyname = handysmurf.getName();
 System.out.println(handyname);
